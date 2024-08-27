@@ -1,7 +1,3 @@
-# Learning-Kubernetes
-
-Here’s a detailed guide on getting started with Kubernetes using Minikube, similar to your Docker Learning Journey Documentation.
-
 # Kubernetes Learning Journey Documentation with Minikube
 
 ### 1. **Introduction to Kubernetes:**
