@@ -1,4 +1,4 @@
-**Challenge Scenario: Deploy a Real Web Application**
+# **Challenge Scenario: Deploy a Real Web Application**
 
 #### **Objective:**
 You will deploy a web application that consists of a backend API service and a frontend service. The backend will serve JSON data, and the frontend will display this data. Both services will be deployed on Kubernetes.
