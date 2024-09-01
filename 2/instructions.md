@@ -1,6 +1,4 @@
-Certainly! Here’s another Kubernetes challenge designed to help you drill your skills. This challenge will focus on deploying a multi-tier application, incorporating secrets, environment variables, persistent storage, and basic network policies.
-
-### **Challenge Scenario: Deploy a Multi-Tier Application**
+# **Challenge Scenario: Deploy a Multi-Tier Application**
 
 #### **Objective:**
 You will deploy a multi-tier web application on Kubernetes. The application consists of a MySQL database as the backend, a Python Flask application as the middle tier, and an Nginx server as the frontend. The Flask application will serve content from the database, and the Nginx server will serve static content while proxying API requests to the Flask application.
