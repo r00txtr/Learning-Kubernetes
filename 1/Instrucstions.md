@@ -1,4 +1,4 @@
-### **Extended Challenge Scenario: Deploy a Real Web Application**
+**Challenge Scenario: Deploy a Real Web Application**
 
 #### **Objective:**
 You will deploy a web application that consists of a backend API service and a frontend service. The backend will serve JSON data, and the frontend will display this data. Both services will be deployed on Kubernetes.
@@ -227,5 +227,4 @@ You will deploy a web application that consists of a backend API service and a f
 ### **Conclusion**
 
 By completing this extended challenge, you will gain practical experience in deploying a real-world Kubernetes application that consists of a frontend and a backend service. This includes managing ConfigMaps, Services, Deployments, and more, which are essential skills for working with Kubernetes in production environments.
-
 
